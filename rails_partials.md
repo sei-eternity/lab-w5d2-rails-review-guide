@@ -9,7 +9,9 @@ Partial templates - usually just called "partials" - are another device for brea
 5. Your different partials can also have different layouts.
 6. Separating your view into partials can also help in in proper fragment caching (Fragment Caching) of some portion of you webpage. Better management.
 <br>
-## Resources
+
+## Resources:
+
 - [Rails Guides](https://guides.rubyonrails.org/layouts_and_rendering.html#using-partials)
 - [Why Use Rails Partials](https://stackoverflow.com/questions/17453972/what-is-the-use-of-partials-in-rails)
 Collapse
