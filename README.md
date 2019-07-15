@@ -1,6 +1,6 @@
 # Rails Review Guide
 
-This morning you will create a Rails review guide. Your group will be assigned one of the questions below.
+This morning you will create a Rails review guide. Your group will be assigned one of the questions below. You will create a README review file based on your question.
 
 ## Instructions
 
@@ -19,7 +19,7 @@ This morning you will create a Rails review guide. Your group will be assigned o
 
 ## Questions
 
-Each group should guide us through the Rails documentation for each of these.
+Each group should make a reference or include a link to the Rails documentation for each of these.
 
 1. What is Active Record?
 2. What is MVC?
