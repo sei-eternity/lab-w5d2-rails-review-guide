@@ -1,4 +1,4 @@
-# lab-w5d2-rails-review-guide
+# Rails Review Guide
 
 This morning you will create a Rails review guide. Your group will be assigned one of the questions below.
 
