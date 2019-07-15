@@ -7,7 +7,7 @@ This morning you will create a Rails review guide. Your group will be assigned o
 1. Fork and clone this repo
 1. Create a README file. The file name should include your question. 
   
-    - For example, if you question is `What is REST-ful routing?` then name your file `restful-routing.md`.
+    - For example, if your question is `What is REST-ful routing?` then name your file `restful-routing.md`.
   
 1. Make a git commit and submit a pull request on this repo for your README file. 
 1. Include your names and the question in your Pull Request. For example, `Marc + Usman: What is REST-ful routing?`
@@ -30,7 +30,7 @@ Each group should guide us through the Rails documentation for each of these.
 7. What is a templating language? Which one are we using with Rails?
 8. What are Rails partials and why do we use them?
 9. Describe Rails Strong Parameters.
-10. What does `rails routes` do?
+10. What does the `rails routes` command do?
 11. Describe `foreign_key` and `primary_key`. How are they useful?
 12. Walk us through the setup and code for a one to many association for `classroom` and `students` in Rails.
 
