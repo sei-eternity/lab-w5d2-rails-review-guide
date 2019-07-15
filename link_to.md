@@ -1,0 +1,1 @@
+The `link_to` keyword will create an html ‘a’ tag , with the values in the parenthesis being the values of the tag’s attributes
