@@ -12,7 +12,7 @@ The Rails router recognizes URLs and dispatches them to a controller’s action,
 
 
 
-![alt text](https://files.slack.com/files-pri/TA2AHQDQ8-FLG8X2615/screen_shot_2019-07-15_at_11.36.09_am.png)
+![alt text](i.png)
 
 
 ## Resources
