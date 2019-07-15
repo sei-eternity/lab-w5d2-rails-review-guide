@@ -11,8 +11,10 @@ the goal of it is to encapsulate and reuse the methods in the needed places whic
 
 For Example:
 
+```
+
 private
     def person_params
       params.require(:person).permit(:name, :age)
     end
-
+```
