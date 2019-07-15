@@ -16,7 +16,7 @@ Differences between primary and foreign keys and how they are useful.
                  by multiple foreign keys from other “child” tables.
 
 
-
+```
 GroupTable > ID is Primary key 
 
 ID   NAME    AGE 
@@ -37,3 +37,4 @@ OrderID  OrderNumber  groupTable_ID
 12       283743        3
 08       291383        4
 
+```
